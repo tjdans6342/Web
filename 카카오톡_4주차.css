@@ -1,0 +1,31 @@
+.header_1{
+    height:5vh;
+    color:gray;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_2{
+    display:flex;
+    justify-content: space-between;
+}
+
+.body_1{
+    height:84vh;
+    display: flex;
+    /* background: green; */
+}
+
+.body_line{
+    background-color:rgb(238, 234, 234);
+    height:2px;
+    display: flex;
+}
+
+.footer_1{
+    background: rgb(253, 253, 253);
+    height:5vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
